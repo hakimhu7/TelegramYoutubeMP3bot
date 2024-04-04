@@ -3,7 +3,7 @@ from pytube import *
 from moviepy.editor import *
 
 
-BOT_TOKEN = '7010806244:AAEN8p419KuxBft7QiQPobiq9Ceswlo4lNY' 
+BOT_TOKEN =  YOUR_BOT_TOKEN
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
